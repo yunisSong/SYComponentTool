@@ -1,0 +1,20 @@
+{
+  "name": "syeventbus",
+  "version": "0.0.4",
+  "description": "yunis 学习前端过程中仿照 iOS 中的 notification 写的一个事件传递库。这个也是来学习下如何发布前端组件。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/yunisSong/SYComponentTool/tree/main/eventbus",
+  "keywords": [
+    "eventbus",
+    "event"
+  ],
+  "files": [
+    "index.ts",
+    "SYEventBus.ts"
+  ],
+  "author": "Yunis",
+  "license": "ISC"
+}
